@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kulina</string>
+    <string name="action_settings">Settings</string>
+    <string name="string1">Jakarta Selatan, Senayan (SCBD) - 12190</string>
+    <string name="string2">Catering\'s Name</string>
+    <string name="string3">Rp 19,900</string>
+    <string name="string4">Tambah</string>
+    <string name="string5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam commodo sodales neque sed posuere. Cras non nisi magna. Mauris urna ex, efficitur id convallis in, fermentum nec nisi.</string>
+    <string name="string6">Food\'s Name</string>
+    <string name="string7">2 porsi dalam keranjang</string>
+    <string name="string8">Makan Siang</string>
+    <string name="action_search">mboh</string>
+</resources>
